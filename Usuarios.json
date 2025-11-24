@@ -47,4 +47,10 @@
         "expirydate": "25-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "edfd0ccde50c6226",
+        "key": "ROMEL-ES-GAY",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
+    },
 ]
