@@ -8,7 +8,7 @@
     {
         "device_id": "device456",
         "key": "key67890",
-        "expirydate": "15-06-2025",
+        "expirydate": "25-11-2025",
         "Allowoffline": false
     },
     {
@@ -16,41 +16,5 @@
         "key": "UNITY-VIP-CREADOR",
         "expirydate": "25-11-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "92a274e2da618554",
-        "key": "UNITY-VIP-K519E",
-        "expirydate": "23-11-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "746d37696eaae48c",
-        "key": "UNITY-VIP-WHR6WE",
-        "expirydate": "23-11-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "549231266655303c",
-        "key": "UNITY-VIP-JMB590CH",
-        "expirydate": "23-11-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "04825a000678a184",
-        "key": "UNITY-VIP-Y51GHS",
-        "expirydate": "23-11-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "910ecd5da7757738",
-        "key": "CHICO-UNITY-YSM3.0",
-        "expirydate": "25-11-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "edfd0ccde50c6226",
-        "key": "ROMEL-ES-GAY",
-        "expirydate": "25-11-2025",
-        "Allowoffline": false
-    },
+    }
 ]
